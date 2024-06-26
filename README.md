@@ -1,1 +1,1 @@
-# Powered-Image-Generation-and-Similarity-Checker
+# Image-Generation-and-Similarity-Checker
